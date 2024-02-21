@@ -6,7 +6,7 @@ public class CarTester
   
         // Print out the model
        
-        // Print out the MPG
+        // Print out the efficiency
        
    
 
@@ -14,7 +14,7 @@ public class CarTester
        
         // Print out the model
        
-        // Print out the MPG
+        // Print out the efficiency
         
     }
 }
