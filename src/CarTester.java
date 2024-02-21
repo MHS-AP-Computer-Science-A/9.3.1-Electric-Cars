@@ -2,7 +2,7 @@ public class CarTester
 {
     public static void main(String[] args)
     {
-        // Create a Car object that represents a "Camero" with MPG of 30
+        // Create a Car object that represents a "Camaro" with MPG of 30
   
         // Print out the model
        
