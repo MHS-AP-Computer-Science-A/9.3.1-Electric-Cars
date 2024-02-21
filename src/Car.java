@@ -2,9 +2,9 @@ public class Car {
 
     //This code is complete
     private String model;
-    private String mpg;
+    private int mpg;
 
-    public Car(String model, String mpg){
+    public Car(String model, int mpg){
         this.model = model;
         this.mpg = mpg;
     }
@@ -14,10 +14,6 @@ public class Car {
     }
 
     public String getMPG(){
-        return mpg;
-    }
-
-    public String toString(){
         return model + " gets " + mpg + " mpg.";
     }
 }
