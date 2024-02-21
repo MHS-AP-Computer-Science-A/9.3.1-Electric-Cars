@@ -1,16 +1,12 @@
 public class ElectricCar extends Car {
 
-    // Complete the constructor
-    public ElectricCar(String model){
-       
-    }
+    private int range;
 
-    // Override the getMPG here.
-    // It should return: "Electric cars do not calculate MPG.
-    
+    // Write the constructor (Electric cars have MPG of 0)
 
-    // Override the toString() here.
-    // (model) is an  electric car.
-    
-    
+
+    // Override the getEfficiency here.
+    // It should return: "(model) is an  electric car with a range of (range) miles"
+    @Override
+  
 }
