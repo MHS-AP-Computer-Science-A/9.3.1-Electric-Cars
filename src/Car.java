@@ -1,19 +1,12 @@
-public class Car {
+public class ElectricCar extends Car {
 
-    //This code is complete
-    private String model;
-    private int mpg;
+    private int range;
 
-    public Car(String model, int mpg){
-        this.model = model;
-        this.mpg = mpg;
-    }
+    // Write the constructor (Electric cars have MPG of 0)
 
-    public String getModel(){
-        return model;
-    }
 
-    public String getMPG(){
-        return model + " gets " + mpg + " mpg.";
-    }
+    // Override the getMPG here.
+    // It should return: "(model) is an  electric car with a range of (range) miles"
+    @Override
+  
 }
