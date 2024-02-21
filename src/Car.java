@@ -5,7 +5,7 @@ public class ElectricCar extends Car {
     // Write the constructor (Electric cars have MPG of 0)
 
 
-    // Override the getMPG here.
+    // Override the getEfficiency here.
     // It should return: "(model) is an  electric car with a range of (range) miles"
     @Override
   
